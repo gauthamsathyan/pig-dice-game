@@ -1,4 +1,4 @@
-# Pig Dice Game - Android Application
+## Pig Dice Game - Android Application
 
 A 2D multi-player game built as a part of Android Development course project.
 
